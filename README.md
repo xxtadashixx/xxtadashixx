@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 À propos de moi
 
-- 🎓 Étudiant en **L3 IT parcours DevOps** dans une université spécialisée en administration système.
+- 🎓 Étudiant en **L3 IT parcours DevOps** dans une université spécialisée en DevOps et Administrateur Cloud.
 - 💼 Objectif : devenir **administrateur système & DevOps**, avec une solide expertise en **cybersécurité**.
 - 🛠️ Passionné par les technologies **Linux**, la **virtualisation**, l'**automatisation** et le **pentesting**.
 - 🧠 Curieux de nature, j'aime apprendre vite et relever de nouveaux défis techniques.
